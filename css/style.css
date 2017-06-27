@@ -1,0 +1,94 @@
+.nav {
+  margin-top: auto;
+  padding-bottom: 6%;
+  font-weight: 600;
+}
+
+.items {
+ font-variant: small-caps; 
+}
+.nav-link {
+  color: white;
+  font-size: 80%;
+}
+.jumbotron { border-radius: 0px;}
+.opening {
+  background-image:       url(https://c1.staticflickr.com/5/4195/34781348446_0937b6062d_b.jpg);
+  color: white;
+  margin-top: -5%;
+  text-shadow: 5px 5px 5px #000000 ;
+}
+
+#head {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: justify;
+}
+#title {
+  font-family: ;
+  font-weight: 700;
+  font-size: 220%
+}
+#subtitle {
+  font-size: 120%
+}
+#posted-by { 
+  font-family: serif;
+  font-size: 90%
+}
+
+.text {
+  font-family: serif;
+  padding-top: 20px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.internal-heading {
+  font-family: arial;
+  font-weight: 800;
+  padding-bottom: 10px;
+}
+
+.blockquote {
+  
+  font-family: times-new-roman;
+  font-style: italic;
+  font-size: 90%
+}
+
+.for-sell {
+  padding-top: 15px;
+  margin-botto: 15px;
+}
+
+.capt {
+  text-align: center;
+  font-family: times-new-roman;
+  font-size: 80%;
+}
+.links {
+  text-decoration: underline;
+  color: black;
+}
+.social {
+  text-align: center;
+  padding-left: 40%;
+  padding-right: 35%;
+  padding-top: 5%;
+}
+
+
+.icon { 
+  height: 50px;
+  padding: 8px;
+}
+
+.copyright {
+ text-align: center;
+  padding-left: 25%;
+  padding-right: 30%;
+  font-size: 10px;
+}
